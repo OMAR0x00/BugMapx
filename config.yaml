@@ -1,0 +1,15 @@
+tor:
+  enabled: false           # Disable Tor for now (can be set to true later)
+  password: "1234567890abcdef"
+
+ai:
+  model: light             # Use small, fast model for local testing
+  enabled: true
+
+scan:
+  aggression: 3
+  timeout: 20
+
+apis:
+  shodan: ""               # Optional: add your API keys
+  securitytrails: ""
