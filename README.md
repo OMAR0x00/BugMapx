@@ -8,3 +8,13 @@
 ```bash
 # Stealth scan example
 bugmapx scan example.com --tor --ai heavy --output encrypted
+Features:
+Hybrid Intelligence - Combines 15+ reconnaissance tools with AI analysis
+
+Ghost Mode - Auto-rotating Tor circuits with forensic countermeasures
+
+Zero-Day Detection - Predicts vulnerabilities before they're exploited
+
+Blockchain Integration - Store findings on Ethereum/IPFS (optional)
+
+Polymorphic Scanning - Evades detection with dynamic scan patterns
