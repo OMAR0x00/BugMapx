@@ -1,0 +1,9 @@
+tor:
+  enabled: true
+  password: "$(openssl rand -hex 16)"   # Auto-generate during install
+ai:
+  model: medium                         # light/medium/heavy
+  openai_key: sk-...                    # Required for GPT-4 analysis
+apis:
+  shodan: YOUR_API_KEY
+  securitytrails: YOUR_API_KEY
