@@ -6,8 +6,7 @@
 > Military-grade reconnaissance for ethical hackers and bug bounty hunters  
 
 ```bash
-# Stealth scan example
-bugmapx scan example.com --tor --ai heavy --output encrypted
+
 Features:
 Hybrid Intelligence - Combines 15+ reconnaissance tools with AI analysis
 
