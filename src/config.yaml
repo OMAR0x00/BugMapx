@@ -1,0 +1,11 @@
+tor:
+  enabled: true
+  password: "$(openssl rand -hex 16)"   # Auto-generated
+ai:
+  model: medium                         # light/medium/heavy
+  openai_key: sk-...                    # For GPT-4 analysis
+scan:
+  aggression: 7                         # 1-10 intensity
+apis:
+  shodan: YOUR_API_KEY
+  securitytrails: YOUR_API_KEY
